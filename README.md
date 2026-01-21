@@ -14,6 +14,8 @@ and International topics.
 - Missed question summary
 - Quit anytime option
 
-## ▶️ How to Run
+▶️ How to Run
+
 1. Make sure Python 3 is installed
 2. Run the program using:
+   python quiz_game2.py
